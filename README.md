@@ -1,15 +1,15 @@
 # Praktikum 1
 
-### Nama: Rini Ariza
+**Nama: Rini Ariza**
 
-### NIM: 312210337
+**NIM: 312210337**
 
-### Kelas: TI.22.A3
+**Kelas: TI.22.A3**
 
 ---
 
 ## Praktikum
-> Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
+Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
 
 ```html
 <!-- ini adalah paragraf pertama -->
