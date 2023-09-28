@@ -1,10 +1,10 @@
-<h1 <p align="center"><b>Praktikum 1</b></p> </h1> 
+<h1 <p align="center"><b>Praktikum 1</b></p></h1> 
 
 <h2 <b>Nama: Rini Ariza</b></h2>
 
 <h2 <b>NIM: 312210337</b></h2>
 
-**Kelas: TI.22.A3**
+<h2 <b>Kelas: TI.22.A3</b></h2>
 
 ---
 
