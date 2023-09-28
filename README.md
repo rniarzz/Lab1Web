@@ -1,6 +1,6 @@
 <h2 <p align="center"><b>Praktikum 1</b></p> </h2> 
 
-<h4 <b>Nama: Rini Ariza</b> </h4>
+<h3 <b>Nama: Rini Ariza</b> </h3>
 
 **NIM: 312210337**
 
