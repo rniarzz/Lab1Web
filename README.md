@@ -11,7 +11,7 @@
 ### Praktikum
 Pertama buat codingan sebagai berikut 
 ```html
-<!-- paragraf pertama -->
+<!-- ini adalah paragraf pertama -->
 <p>
   Kami sedang belajar HTML dasar, pada matakuliah Pemograman Web di
   prodi Teknik Informatika Universitas Pelita Bangsa
@@ -19,13 +19,14 @@ Pertama buat codingan sebagai berikut
   dalam mengenal tag-tag dasar HTML.
 </p>
 
-<!-- paragraf kedua -->
+<!-- ini adalah paragraf kedua -->
 <p>
   Ini adalah paragraf yang terdiri dari beberapa kalimat yang saling
   mendukung sehingga terbentuk menjadi kesatuan. Paragraf dengan menggunakan
   tag dasar HTML.
 </p>
 ```
+Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 ![Screenshot 2023-09-26 154039](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/b893815f-ee0d-4193-8c33-80edecc18c14)
 
 
