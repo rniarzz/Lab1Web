@@ -9,7 +9,7 @@
 ---
 
 ### Praktikum
-Pertama buat codingan sebagai berikut 
+Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
 
 ```html
 <!-- ini adalah paragraf pertama -->
@@ -34,7 +34,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ### Mengatur atribut paragraf
 
-Untuk mengatur atribut paragraf kita bisa menggunakan
+Untuk mengatur atribut paragraf kita bisa menggunakan 
 ```html
 <p align="center">
   Ini adalah paragraf yang terdiri dari beberapa kalimat yang saling
