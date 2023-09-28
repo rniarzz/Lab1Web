@@ -12,7 +12,6 @@
     </p>
 
 <!-- Judul paragraf kedua -->
-<h2>Paragraf pada HTML</h2>
     <!-- Ini adalah paragraf kedua -->
 <p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
@@ -26,7 +25,6 @@
 </p>
 
 <!-- Judul paragraf kedua -->
-<h3>menambahkan gambar HTML</h3>
 <img src="http://www.pelitabangsa.ac.id/wp-content/uploads/2019/09/LOGO_UPB_NEW-1.png" width="300">
 
 
