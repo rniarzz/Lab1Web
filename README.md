@@ -1,6 +1,6 @@
 # Praktikum 1
 
-**Nama: Rini Ariza**
+**Nama: Rini Ariza**     - jdjsjjd
 
 **NIM: 312210337**
 
