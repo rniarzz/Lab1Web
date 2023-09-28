@@ -2,7 +2,6 @@
 # NIM: 312210337
 # Kelas: TI.22.A3
 
-```python```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,4 +39,4 @@
 
 </body>
 </html>
-```python```
+
