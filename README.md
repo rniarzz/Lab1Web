@@ -10,6 +10,7 @@
 
 ## Praktikum
 Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
+
 Untuk membuat sebuah paragraf gunakan perintah `<p>` dan diakhiri dengan `</p>`
 
 
