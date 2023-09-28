@@ -10,7 +10,7 @@
 
 ## Praktikum
 Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
->Untuk membuat sebuah paragraf gunakan perintah '<p>' dam diakhiri dengan '</p>'
+Untuk membuat sebuah paragraf gunakan perintah '<p>' dam diakhiri dengan '</p>'
 
 ```html
 <!-- ini adalah paragraf pertama -->
