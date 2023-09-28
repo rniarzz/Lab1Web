@@ -11,7 +11,7 @@
 ## Praktikum
 Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
 
-```Untuk membuat sebuah paragraf gunakan perintah `<p>` dan diakhiri dengan `</p>` ```
+Untuk membuat sebuah paragraf gunakan perintah ```html `<p>` ``` dan diakhiri dengan `</p>` 
 
 
 ```html
