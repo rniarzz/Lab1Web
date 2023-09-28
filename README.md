@@ -1,4 +1,4 @@
-# Praktikum 1
+![image](https://github.com/rniarzz/Lab1Web/assets/115542704/956e928e-db69-4bae-ad67-c52f94bd94a7)# Praktikum 1
 
 ### Nama: Rini Ariza
 
@@ -44,15 +44,29 @@ atur atribut paragraf
 
 
 ### Menambahkan Judul 
-```
-<!-- paragraf pertama -->
-<h1>Belajar Dasar HTML</h1>
 
- <!-- paragraf kedua -->
+```html
+ <!-- Judul paragraf pertama -->
+ <h1>Belajar Dasar HTML</h1>
+ <p align="center">
+     Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
+     Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
+     adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar
+     HTML.
+ </p>
+
+<!-- Judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
+    <!-- Ini adalah paragraf kedua -->
+<p align="left">
+    Ini merupakan sebuah paragraf yang terdiri dari beberapa
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+    dengan menggunakan tag dasar html.</p>
+
 ```
 
-![Screenshot (229)](https://github.com/rniarzz/Lab1Web/assets/115542704/3eb3b5f7-d669-43a3-adac-e7a93f075c25)
+![image](https://github.com/rniarzz/Lab1Web/assets/115542704/aaa22846-e963-449f-ab5a-ebbccc9754a1)
+
 
 
 ### Memformat Teks
@@ -75,7 +89,9 @@ atur atribut paragraf
 </p>
 ```
 
-![Screenshot (229)](https://github.com/rniarzz/Lab1Web/assets/115542704/ee2f4865-2342-4c54-8b4a-0792df5af290)
+![Screenshot (232)](https://github.com/rniarzz/Lab1Web/assets/115542704/bde22741-18c6-4c34-a0b9-da38f3bae312)
+
+
 
 
 
