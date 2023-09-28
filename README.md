@@ -4,7 +4,6 @@
 
 
     <!-- Judul paragraf pertama -->
-<h1>belajar dasar HTML</h1>
     <p align="center">
         Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi
         Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat
