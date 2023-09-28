@@ -34,7 +34,9 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ### Mengatur atribut paragraf
 
-Untuk mengatur atribut paragraf kita bisa menggunakan 
+Untuk mengatur atribut paragraf kita bisa menggunakan perintah sebagai berikut:
+- 
+
 ```html
 <p align="center">
   Ini adalah paragraf yang terdiri dari beberapa kalimat yang saling
