@@ -112,4 +112,3 @@ Hanya dengan menggunakan ```width``` foto akan menjadi lebih presisi tetapi ```h
 
 
 
-
