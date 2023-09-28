@@ -8,7 +8,7 @@
 
 ---
 
-### Praktikum
+## Praktikum
 Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
 
 ```html
@@ -32,7 +32,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ![Screenshot (226)](https://github.com/rniarzz/Lab1Web/assets/115542704/67b90ab3-0347-4fa3-8b64-cb48e18397f1)
 
-### Mengatur atribut paragraf
+## Mengatur atribut paragraf
 
 Untuk mengatur atribut paragraf kita bisa menggunakan perintah sebagai berikut:
 
