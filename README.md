@@ -68,7 +68,6 @@ atur atribut paragraf
 ![image](https://github.com/rniarzz/Lab1Web/assets/115542704/aaa22846-e963-449f-ab5a-ebbccc9754a1)
 
 
-
 ### Memformat Teks
 
 ```html
@@ -93,7 +92,6 @@ atur atribut paragraf
 
 ![Screenshot (232)](https://github.com/rniarzz/Lab1Web/assets/115542704/bde22741-18c6-4c34-a0b9-da38f3bae312)
 
-
 ### Menyisipkan Gambar
 ```
 <h3>menambahkan gambar HTML</h3>
@@ -107,11 +105,11 @@ atur atribut paragraf
 ### Menambahkan Hyperlink
 ```
 <nav>
-<a href="lab1_tag_dasar.html"><b>DASAR HTML</b></a>
+    <a href="lab1_tag_dasar.html">DASAR HTML Rini Ariza</a>
 </nav>
 ```
 
-![Screenshot (231)](https://github.com/rniarzz/Lab1Web/assets/115542704/ae4ecc5d-0766-4572-8dc3-191929b099a6)
+![image](https://github.com/rniarzz/Lab1Web/assets/115542704/e7204d60-af29-44fb-90b7-fa4a102116d6)
 
 
 #### Menjawab Pertanyaan
