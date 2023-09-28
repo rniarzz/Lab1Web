@@ -3,13 +3,6 @@
 # Kelas: TI.22.A3
 
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tag HTML Dasar</title>
-</head>
-<body>
     <!-- Judul paragraf pertama -->
 <h1>belajar dasar HTML</h1>
     <p align="center">
@@ -37,7 +30,6 @@
 <h3>menambahkan gambar HTML</h3>
 <img src="http://www.pelitabangsa.ac.id/wp-content/uploads/2019/09/LOGO_UPB_NEW-1.png" width="300">
 
-</body>
-</html>
+
 
 
