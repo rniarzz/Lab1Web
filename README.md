@@ -1,4 +1,4 @@
-<h2 <p align="center"><bPraktikum 1</b></p> </h2> 
+<h2 <p align="center"><b>Praktikum 1</b></p> </h2> 
 
 **Nama: Rini Ariza**   
 
