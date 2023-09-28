@@ -1,4 +1,4 @@
-# Praktikum 1
+<p align="center">Praktikum 1</p>p>
 
 **Nama: Rini Ariza**   
 
