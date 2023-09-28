@@ -4,7 +4,8 @@
 
 
 ### Membuat Paragraf
-```
+
+```html
 <!-- paragraf pertama -->
 <p>
   Kami sedang belajar HTML dasar, pada matakuliah Pemograman Web di
@@ -19,7 +20,7 @@
   mendukung sehingga terbentuk menjadi kesatuan. Paragraf dengan menggunakan
   tag dasar HTML.
 </p>
-```
+```html
 ![Screenshot 2023-09-26 154039](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/b893815f-ee0d-4193-8c33-80edecc18c14)
 
 
