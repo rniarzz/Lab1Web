@@ -9,7 +9,7 @@
 ---
 
 ## Praktikum
-Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
+> Pertama buat codingan sebagai berikut untuk membuat sebuah paragraf
 
 ```html
 <!-- ini adalah paragraf pertama -->
