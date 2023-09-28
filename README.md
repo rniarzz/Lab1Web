@@ -6,6 +6,7 @@
 
 ### Kelas: TI.22.A3
 
+---
 
 ### Membuat Paragraf
 
