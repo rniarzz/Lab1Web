@@ -1,4 +1,4 @@
-![image](https://github.com/rniarzz/Lab1Web/assets/115542704/956e928e-db69-4bae-ad67-c52f94bd94a7)# Praktikum 1
+# Praktikum 1
 
 ### Nama: Rini Ariza
 
