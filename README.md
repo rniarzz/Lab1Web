@@ -52,7 +52,8 @@ atur atribut paragraf
 <h2>Paragraf pada HTML</h2>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/0bc537ee-2181-4c67-93c6-212e765669c0)
+![Screenshot (229)](https://github.com/rniarzz/Lab1Web/assets/115542704/3eb3b5f7-d669-43a3-adac-e7a93f075c25)
+
 
 ### Memformat Teks
 ```
@@ -74,7 +75,9 @@ atur atribut paragraf
 </p>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/8efe9eec-9e87-4f69-9510-9db3a5f51f4d)
+![Screenshot (229)](https://github.com/rniarzz/Lab1Web/assets/115542704/ee2f4865-2342-4c54-8b4a-0792df5af290)
+
+
 
 ### Menyisipkan Gambar
 ```
@@ -82,7 +85,8 @@ atur atribut paragraf
 <img src="Clarkson.jpg" width="480" />
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/3098e175-e733-4439-a5e7-e5ed2d6763f9)
+![Screenshot (230)](https://github.com/rniarzz/Lab1Web/assets/115542704/b44072ac-fdf3-4d8e-ab01-0c1d8634edf6)
+
 
 ### Menambahkan Hyperlink
 ```
@@ -91,7 +95,8 @@ atur atribut paragraf
 </nav>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/ea08b251-c07b-4246-8446-da4e043d9571)
+![Screenshot (231)](https://github.com/rniarzz/Lab1Web/assets/115542704/ae4ecc5d-0766-4572-8dc3-191929b099a6)
+
 
 #### Menjawab Pertanyaan
 
