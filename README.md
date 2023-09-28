@@ -70,29 +70,28 @@ atur atribut paragraf
 
 
 ### Memformat Teks
-```
-<!-- paragraf pertama -->
-<h1>Belajar Dasar HTML</h1>
-<p>
-  Kami sedang belajar HTML dasar, pada matakuliah <b>Pemograman Web</b> di
-  prodi <i>Teknik Informatika</i> <mark>Universitas Pelita Bangsa</mark>.
-  Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana
-  dalam mengenal tag-tag dasar HTML.
-</p>
 
-<!-- paragraf kedua -->
+```html
+ <!-- Judul paragraf pertama -->
+ <h1>Belajar Dasar HTML</h1>
+ <p align="center">
+     Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman Web</b> di Prodi
+     <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang kami dapat
+     adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar
+     HTML.
+ </p>
+
+<!-- Judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
-<p align="center">
-  Ini adalah paragraf yang terdiri dari beberapa kalimat yang saling
-  mendukung sehingga terbentuk menjadi kesatuan. Paragraf dengan menggunakan
-  tag dasar HTML.
-</p>
+    <!-- Ini adalah paragraf kedua -->
+<p align="left">
+    Ini merupakan sebuah paragraf yang terdiri dari beberapa
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
+    dengan menggunakan tag dasar html.</p>
+
 ```
 
 ![Screenshot (232)](https://github.com/rniarzz/Lab1Web/assets/115542704/bde22741-18c6-4c34-a0b9-da38f3bae312)
-
-
-
 
 
 ### Menyisipkan Gambar
