@@ -6,10 +6,6 @@
 
 **Kelas: TI.22.A3**
 
-- [x] hobinya makan 😂
-- [ ] suka lari pagi 🙏🏻
-- [x] suka baca novel 😎
-
 ---
 
 ## Praktikum
