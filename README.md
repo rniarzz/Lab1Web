@@ -29,8 +29,7 @@ Pertama buat codingan sebagai berikut
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-
-![Screenshot 2023-09-26 154039](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/b893815f-ee0d-4193-8c33-80edecc18c14)
+![Screenshot (226)](https://github.com/rniarzz/Lab1Web/assets/115542704/67b90ab3-0347-4fa3-8b64-cb48e18397f1)
 
 atur atribut paragraf
 ```
@@ -41,7 +40,8 @@ atur atribut paragraf
 </p>
 ```
 
-![image](https://github.com/alifamarta/Praktikum-PemogramanWeb/assets/115516820/8851e999-3dfb-45cc-b61c-e54ebdc08935)
+![Screenshot (228)](https://github.com/rniarzz/Lab1Web/assets/115542704/bd79f905-f291-43a5-a293-04da759b4fe6)
+
 
 ### Menambahkan Judul 
 ```
