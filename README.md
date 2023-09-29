@@ -42,7 +42,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 Untuk mengatur atribut paragraf kita bisa menggunakan perintah-perintah sebagai berikut:
 
-- Mengatur paragraf <p <mark>rata kanan</mark></p> gunakan perintah `align="right"`
+- Mengatur paragraf **rata kanan** gunakan perintah `align="right"`
 - Mengatur paragraf **rata kiri** gunakan perintah `align="left"`
 - Mengatur paragraf **rata tengah** gunakan perintah `align="center"`
 - Mengatur paragraf **rata kanan-kiri** gunakan perintah `align="justify"`
@@ -61,6 +61,8 @@ Berikut contoh syntax untuk mengatur paragraf menjadi rata tengah:
 
 
 ### Menambahkan Judul 
+
+Untuk menambahkan judul bisa menggunakan perintah-perintah sebagai berikut:
 
 ```html
  <!-- Judul paragraf pertama -->
