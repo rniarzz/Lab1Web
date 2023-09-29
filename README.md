@@ -1,4 +1,4 @@
-<h2 <p align="center"><b>Praktikum 1</b></p></h2> 
+untuk<h2 <p align="center"><b>Praktikum 1</b></p></h2> 
 
 **Nama: Rini Ariza**
 
@@ -57,12 +57,13 @@ Berikut contoh syntax untuk mengatur paragraf menjadi rata tengah:
 </p>
 ```
 
-![Screenshot (228)](https://github.com/rniarzz/Lab1Web/assets/115542704/bd79f905-f291-43a5-a293-04da759b4fe6)
+Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
+![Screenshot (228)](https://github.com/rniarzz/Lab1Web/assets/115542704/bd79f905-f291-43a5-a293-04da759b4fe6)
 
 ### Menambahkan Judul 
 
-Untuk menambahkan judul bisa menggunakan perintah-perintah sebagai berikut:
+Untuk menambahkan judul kita bisa menggunakan format mulai dari heading 1 sampai heading 6
 
 ```html
  <!-- Judul paragraf pertama -->
