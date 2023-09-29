@@ -65,6 +65,10 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 Untuk menambahkan judul kita bisa menggunakan format mulai dari heading 1 sampai heading 6
 
+Format `<h1>` untuk menambahkan judul, format `<h2>` sampai `<h6>` untuk sub judul
+
+Berikut contoh syntaxnya:
+
 ```html
  <!-- Judul paragraf pertama -->
  <h1>Belajar Dasar HTML</h1>
