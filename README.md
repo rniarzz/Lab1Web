@@ -137,7 +137,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 Untuk menyisipkan gambar, HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah `<img>` dengan atribut `src` sebagai URL atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
 
-Berikut syntaxnya:
+Berikut contoh syntaxnya:
 
 ```html 
 <h3>menambahkan gambar HTML</h3>
@@ -152,11 +152,19 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 ---
 
 ### Menambahkan Hyperlink
-```
+
+Untuk membuat Hyperlink atau Anchor kita bisa menggunakan tag `<a>` dengan menambahkan atribut `href` 
+sebagai penentu URL yang dimaksud.
+
+Berikut contoh syntaxnya:
+
+```html
 <nav>
     <a href="lab1_tag_dasar.html">DASAR HTML Rini Ariza</a>
 </nav>
 ```
+
+Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
 ![image](https://github.com/rniarzz/Lab1Web/assets/115542704/e7204d60-af29-44fb-90b7-fa4a102116d6)
 
