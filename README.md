@@ -137,7 +137,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 Untuk menyisipkan gambar, HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah `<img>` dengan atribut `src` sebagai URL atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
 
-Adapun atribut yang dapat digunakan untuk mengatur gambar sebagai berikut:
+Adapun atribut lain yang dapat digunakan untuk pengaturan gambar sebagai berikut:
 
 ![IMG_20230930_133448](https://github.com/rniarzz/Lab1Web/assets/115542704/e529b11b-c861-4613-9e05-71b524273b43)
 
