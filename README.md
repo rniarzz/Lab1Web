@@ -67,7 +67,7 @@ Untuk menambahkan judul kita bisa menggunakan format mulai dari heading 1 sampai
 
 Format `<h1>` untuk menambahkan judul, format `<h2>` sampai `<h6>` untuk sub judul
 
-Berikut contoh syntaxnya:
+Berikut contoh syntax penggunaan `<h1>` dan `<h2>`:
 
 ```html
  <!-- Judul paragraf pertama -->
@@ -89,10 +89,13 @@ Berikut contoh syntaxnya:
 
 ```
 
+Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
+
 ![image](https://github.com/rniarzz/Lab1Web/assets/115542704/aaa22846-e963-449f-ab5a-ebbccc9754a1)
 
-
 ### Memformat Teks
+
+Untuk menambahkan format teks 
 
 ```html
  <!-- Judul paragraf pertama -->
