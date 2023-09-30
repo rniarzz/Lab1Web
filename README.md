@@ -178,10 +178,11 @@ Tidak ada error dan HTML akan berjalan seperti normal.
 
 <b>2. Apa perbedaan dari tag `< p >` dengan tag `< br >` , berikan penjelasannya! <br>
 Jawab: </b> </br>
-```<br>``` digunakan untuk memindahkan teks ke baris selanjutnya sedangkan ```<p>``` digunakan untuk membuat paragraf baru, ```<br>``` bisa digunakan untuk menambah barisan baru kedalam sebuah teks.
-<br>
+- ```<br>``` digunakan untuk memindahkan teks ke baris selanjutnya
+- ```<p>``` digunakan untuk membuat paragraf baru, membuat teks berada dalam sebuah paragraf  
 
-<b>3. Apa perbedaan atribut ```title``` dan ```alt``` pada tag ```<img>```, berikan penjelasannya! </b> <br>
+<b>3. Apa perbedaan atribut ```title``` dan ```alt``` pada tag ```<img>```, berikan penjelasannya! <br>
+Jawab: </b> </br>
 ```alt``` adalah untuk menyediakan tag alt gambar untuk menggambarkan gambar ke crawler mesin pencari dan pembaca layar untuk aksesibilitas web yang lebih baik. ```title``` adalah untuk memberikan penjelasan tentang tag alt gambar dan URL gambar dalam atribut ```src```.
 <br>
 
