@@ -1,4 +1,4 @@
-<h2 <p align="center"><b>Praktikum 1</b></p></h2> 
+<h1 <p align="center"><b>Praktikum 1</b></p></h1> 
 
 **Nama: Rini Ariza**
 
@@ -170,7 +170,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ---
 
-### Menjawab Pertanyaan
+## Menjawab Pertanyaan
 
 <b>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? </br>
 Jawab: </b> </br>
