@@ -173,7 +173,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 #### Menjawab Pertanyaan
 
 <b>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? </b> </br>
-<b> Jawab: <b> </br>
+<b> Jawab: </b> </br>
 
 Tidak ada error dan HTML akan berjalan seperti normal. 
 
