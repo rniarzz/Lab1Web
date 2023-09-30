@@ -164,7 +164,7 @@ Berikut contoh syntaxnya:
 </nav>
 ```
 
-Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
+Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya (ada di bagian paling atas halaman web)
 
 ![image](https://github.com/rniarzz/Lab1Web/assets/115542704/e7204d60-af29-44fb-90b7-fa4a102116d6)
 
@@ -173,9 +173,10 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 #### Menjawab Pertanyaan
 
 <b>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
-error ketika terjadi kesalahan penulisan tag? </b> <br>
+error ketika terjadi kesalahan penulisan tag? </b> 
+
 Tidak ada error dan HTML akan berjalan seperti normal. 
-<br>
+
 
 <b>2. Apa perbedaan dari tag ```< p >``` dengan tag ```< br >``` , berikan penjelasannya! </b> <br>
 ```<br>``` digunakan untuk menggerakan teks ke barisan baru sedangkan ```<p>``` digunakan untuk membuat paragraf baru, ```<br>``` bisa digunakan untuk menambah barisan baru kedalam sebuah teks.
