@@ -183,15 +183,15 @@ Jawab: </b> </br>
 
 <b>3. Apa perbedaan atribut ```title``` dan ```alt``` pada tag ```<img>```, berikan penjelasannya! <br>
 Jawab: </b> </br>
-```alt``` adalah untuk menyediakan tag alt gambar untuk menggambarkan gambar ke crawler mesin pencari dan pembaca layar untuk aksesibilitas web yang lebih baik. ```title``` adalah untuk memberikan penjelasan tentang tag alt gambar dan URL gambar dalam atribut ```src```.
-<br>
+- ```alt``` digunakan untuk menentukan teks alternatif untuk suatu gambar, jika gambar tidak dapat ditampilkan.
+- ```title``` digunakan untuk memberikan keterangan tambahan pada elemen. Text yang dimasukkan pada atribut title ini akan terlihat ketika kursor diletakkan diatas elemen yang bersangkutan.
 
-<b>4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
-proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! </b> <br>
-Hanya dengan menggunakan ```width``` foto akan menjadi lebih presisi tetapi ```height``` bisa mengatur foto semaunya 
-<br>
+<b>4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <br>
+Jawab: </b> </br>
+Hanya dengan menggunakan ```width``` foto akan menjadi lebih presisi, tetapi ```height``` bisa mengatur foto semaunya 
 
-<b>5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( ```_blank```, ```_self```, ```_top```, ```_parent``` ), apa yang terjadi pada masing-masing nilai antribut tersebut? </b> <br>
+<b>5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( ```_blank```, ```_self```, ```_top```, ```_parent``` ), apa yang terjadi pada masing-masing nilai atribut tersebut? <br>
+Jawab: </b> </br>
 - ```_blank```: Membuka dokumen yang dituju di jendela atau tab baru. 
 - ```_self```: Membuka dokumen yang dituju di jendela atau frame yang sama dengan elemen yang diklik. Ini adalah nilai default jika atribut target tidak ditentukan. 
 - ```_parent```: Membuka dokumen yang dituju di frame <i>parent</i> dari elemen yang diklik. Jika elemen tersebut tidak ada dalam frame, perilakunya sama seperti _self. 
