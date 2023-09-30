@@ -61,6 +61,8 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ![Screenshot (228)](https://github.com/rniarzz/Lab1Web/assets/115542704/bd79f905-f291-43a5-a293-04da759b4fe6)
 
+---
+
 ### Menambahkan Judul 
 
 Untuk menambahkan judul kita bisa menggunakan format mulai dari heading 1 sampai heading 6
@@ -93,6 +95,8 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ![image](https://github.com/rniarzz/Lab1Web/assets/115542704/aaa22846-e963-449f-ab5a-ebbccc9754a1)
 
+---
+
 ### Memformat Teks
 
 Untuk menambahkan format teks 
@@ -119,6 +123,8 @@ Untuk menambahkan format teks
 
 ![Screenshot (232)](https://github.com/rniarzz/Lab1Web/assets/115542704/bde22741-18c6-4c34-a0b9-da38f3bae312)
 
+---
+
 ### Menyisipkan Gambar
 ```
 <h3>menambahkan gambar HTML</h3>
@@ -128,6 +134,7 @@ Untuk menambahkan format teks
 
 ![Screenshot (230)](https://github.com/rniarzz/Lab1Web/assets/115542704/b44072ac-fdf3-4d8e-ab01-0c1d8634edf6)
 
+---
 
 ### Menambahkan Hyperlink
 ```
@@ -138,6 +145,7 @@ Untuk menambahkan format teks
 
 ![image](https://github.com/rniarzz/Lab1Web/assets/115542704/e7204d60-af29-44fb-90b7-fa4a102116d6)
 
+---
 
 #### Menjawab Pertanyaan
 
