@@ -63,7 +63,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ---
 
-### Menambahkan Judul 
+## Menambahkan Judul 
 
 Untuk menambahkan judul kita bisa menggunakan format mulai dari heading 1 sampai heading 6
 
@@ -97,7 +97,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ---
 
-### Memformat Teks
+## Memformat Teks
 
 Untuk menambahkan format teks disini saya menggunakan beberapa perintah sebagai berikut:
 - `<mark>` = Untuk menandai teks
@@ -133,7 +133,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ---
 
-### Menyisipkan Gambar
+## Menyisipkan Gambar
 
 Untuk menyisipkan gambar, HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah `<img>` dengan atribut `src` sebagai URL atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
 
@@ -151,7 +151,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ---
 
-### Menambahkan Hyperlink
+## Menambahkan Hyperlink
 
 Untuk membuat Hyperlink atau Anchor kita bisa menggunakan tag `<a>` dengan menambahkan atribut `href` 
 sebagai penentu URL yang dimaksud.
@@ -170,19 +170,19 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ---
 
-#### Menjawab Pertanyaan
+### Menjawab Pertanyaan
 
 <b>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? </br>
 Jawab: </b> </br>
 Tidak ada error dan HTML akan berjalan seperti normal. 
 
 <b>2. Apa perbedaan dari tag `< p >` dengan tag `< br >` , berikan penjelasannya! <br>
-Jawab: </b> </br>
+Jawab: </b>
 - ```<br>``` digunakan untuk memindahkan teks ke baris selanjutnya
 - ```<p>``` digunakan untuk membuat paragraf baru, membuat teks berada dalam sebuah paragraf  
 
 <b>3. Apa perbedaan atribut ```title``` dan ```alt``` pada tag ```<img>```, berikan penjelasannya! <br>
-Jawab: </b> </br>
+Jawab: </b>
 - ```alt``` digunakan untuk menentukan teks alternatif untuk suatu gambar, jika gambar tidak dapat ditampilkan.
 - ```title``` digunakan untuk memberikan keterangan tambahan pada elemen. Text yang dimasukkan pada atribut title ini akan terlihat ketika kursor diletakkan diatas elemen yang bersangkutan.
 
@@ -191,7 +191,7 @@ Jawab: </b> </br>
 Hanya dengan menggunakan ```width``` foto akan menjadi lebih presisi, tetapi ```height``` bisa mengatur foto semaunya 
 
 <b>5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( ```_blank```, ```_self```, ```_top```, ```_parent``` ), apa yang terjadi pada masing-masing nilai atribut tersebut? <br>
-Jawab: </b> </br>
+Jawab: </b> 
 - ```_blank```: Membuka dokumen yang dituju di jendela atau tab baru. 
 - ```_self```: Membuka dokumen yang dituju di jendela atau frame yang sama dengan elemen yang diklik. Ini adalah nilai default jika atribut target tidak ditentukan. 
 - ```_parent```: Membuka dokumen yang dituju di frame <i>parent</i> dari elemen yang diklik. Jika elemen tersebut tidak ada dalam frame, perilakunya sama seperti _self. 
