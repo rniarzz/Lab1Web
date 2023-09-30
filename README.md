@@ -135,13 +135,17 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ### Menyisipkan Gambar
 
-Untuk menyisipkan gambar
+Untuk menyisipkan gambar, HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalah `<img>` dengan atribut `src` sebagai URL atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
+
+Berikut syntaxnya:
 
 ```html 
 <h3>menambahkan gambar HTML</h3>
 <img src="http://www.pelitabangsa.ac.id/wp-content/uploads/2019/09/LOGO_UPB_NEW-1.png" width="300">
 
 ```
+
+Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
 ![Screenshot (230)](https://github.com/rniarzz/Lab1Web/assets/115542704/b44072ac-fdf3-4d8e-ab01-0c1d8634edf6)
 
