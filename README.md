@@ -8,7 +8,7 @@
 
 ---
 
-## Praktikum
+## Membuat Paragraf
 Pertama buat codingan untuk membuat sebuah paragraf
 
 Untuk membuat sebuah paragraf gunakan perintah `<p>` dan diakhiri dengan `</p>` 
@@ -38,7 +38,7 @@ Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasi
 
 ---
 
-## Mengatur atribut paragraf
+## Mengatur Atribut Paragraf
 
 Untuk mengatur atribut paragraf kita bisa menggunakan perintah-perintah sebagai berikut:
 
