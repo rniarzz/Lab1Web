@@ -174,7 +174,7 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 <b>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? </b> </br>
 <b> Jawab: </b> </br>
-</pre> Tidak ada error dan HTML akan berjalan seperti normal. 
+Tidak ada error dan HTML akan berjalan seperti normal. </hr>
 
 <b>2. Apa perbedaan dari tag ```< p >``` dengan tag ```< br >``` , berikan penjelasannya! </b> <br>
 ```<br>``` digunakan untuk menggerakan teks ke barisan baru sedangkan ```<p>``` digunakan untuk membuat paragraf baru, ```<br>``` bisa digunakan untuk menambah barisan baru kedalam sebuah teks.
