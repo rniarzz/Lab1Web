@@ -99,7 +99,13 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 
 ### Memformat Teks
 
-Untuk menambahkan format teks 
+Untuk menambahkan format teks disini saya menggunakan beberapa perintah sebagai berikut:
+- `<mark>` = Untuk menandai teks
+- `<b>` = Untuk menebalkan teks
+- `<i>` = Untuk memiringkan teks
+- `<u>` = Untuk menggaris bawahi teks
+
+Berikut syntaxnya:
 
 ```html
  <!-- Judul paragraf pertama -->
@@ -121,12 +127,17 @@ Untuk menambahkan format teks
 
 ```
 
+Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
+
 ![Screenshot (232)](https://github.com/rniarzz/Lab1Web/assets/115542704/bde22741-18c6-4c34-a0b9-da38f3bae312)
 
 ---
 
 ### Menyisipkan Gambar
-```
+
+Untuk menyisipkan gambar
+
+```html 
 <h3>menambahkan gambar HTML</h3>
 <img src="http://www.pelitabangsa.ac.id/wp-content/uploads/2019/09/LOGO_UPB_NEW-1.png" width="300">
 
