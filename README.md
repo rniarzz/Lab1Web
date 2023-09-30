@@ -176,9 +176,9 @@ Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut ha
 Jawab: </b> </br>
 Tidak ada error dan HTML akan berjalan seperti normal. 
 
-<b>2. Apa perbedaan dari tag `< p >` dengan tag `< br >` , berikan penjelasannya! </b> <br>
-<b> Jawab: </b> </br>
-```<br>``` digunakan untuk menggerakan teks ke barisan baru sedangkan ```<p>``` digunakan untuk membuat paragraf baru, ```<br>``` bisa digunakan untuk menambah barisan baru kedalam sebuah teks.
+<b>2. Apa perbedaan dari tag `< p >` dengan tag `< br >` , berikan penjelasannya! <br>
+Jawab: </b> </br>
+```<br>``` digunakan untuk memindahkan teks ke baris selanjutnya sedangkan ```<p>``` digunakan untuk membuat paragraf baru, ```<br>``` bisa digunakan untuk menambah barisan baru kedalam sebuah teks.
 <br>
 
 <b>3. Apa perbedaan atribut ```title``` dan ```alt``` pada tag ```<img>```, berikan penjelasannya! </b> <br>
