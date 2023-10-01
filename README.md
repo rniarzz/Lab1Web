@@ -141,8 +141,7 @@ Untuk menyisipkan gambar, HTML menyediakan tag khusus untuk dapat menampilkan ga
 
 Adapun atribut lain yang dapat digunakan untuk pengaturan gambar sebagai berikut:
 
-![IMG_20230930_133448](https://github.com/rniarzz/Lab1Web/assets/115542704/e529b11b-c861-4613-9e05-71b524273b43)
-
+![IMG_20230930_133448](https://github.com/rniarzz/Lab1Web/assets/115542704/98be9bcb-17af-44d7-8091-608d0ccdcae3)
 
 Berikut contoh syntaxnya:
 
