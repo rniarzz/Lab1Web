@@ -34,7 +34,7 @@ berikut syntaxnya:
 
 Kemudian simpan perubahannya dan buka web browser kemudian refresh, berikut hasilnya
 
-![Screenshot (226)](https://github.com/rniarzz/Lab1Web/assets/115542704/67b90ab3-0347-4fa3-8b64-cb48e18397f1)
+![IMG-20231001-WA0014](https://github.com/rniarzz/Lab1Web/assets/115542704/38c66321-baa5-4e99-8ba0-dcff47094979)
 
 ---
 
@@ -59,7 +59,8 @@ Berikut contoh syntax untuk mengatur paragraf menjadi rata tengah:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![Screenshot (228)](https://github.com/rniarzz/Lab1Web/assets/115542704/bd79f905-f291-43a5-a293-04da759b4fe6)
+![IMG-20231001-WA0007](https://github.com/rniarzz/Lab1Web/assets/115542704/4b937f74-f37e-4c03-b902-712949663b54)
+
 
 ---
 
@@ -93,7 +94,8 @@ Berikut contoh syntax penggunaan `<h1>` dan `<h2>`:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![image](https://github.com/rniarzz/Lab1Web/assets/115542704/aaa22846-e963-449f-ab5a-ebbccc9754a1)
+![IMG-20231001-WA0010](https://github.com/rniarzz/Lab1Web/assets/115542704/5b64ca0e-20cd-4f1c-9aa4-aaf84ed32841)
+
 
 ---
 
@@ -129,7 +131,7 @@ Berikut syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![Screenshot (232)](https://github.com/rniarzz/Lab1Web/assets/115542704/bde22741-18c6-4c34-a0b9-da38f3bae312)
+![IMG-20231001-WA0009](https://github.com/rniarzz/Lab1Web/assets/115542704/98e9d766-1ea7-41dd-b591-df84d499bf3e)
 
 ---
 
@@ -152,7 +154,7 @@ Berikut contoh syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya
 
-![Screenshot (230)](https://github.com/rniarzz/Lab1Web/assets/115542704/b44072ac-fdf3-4d8e-ab01-0c1d8634edf6)
+![IMG-20231001-WA0008](https://github.com/rniarzz/Lab1Web/assets/115542704/4c0060b3-d3f4-4de9-bc12-be464475ba68)
 
 ---
 
@@ -171,7 +173,7 @@ Berikut contoh syntaxnya:
 
 Kemudian simpan perubahannya lalu masuk web browser dan refresh lagi, berikut hasilnya (ada di bagian paling atas halaman web)
 
-![image](https://github.com/rniarzz/Lab1Web/assets/115542704/e7204d60-af29-44fb-90b7-fa4a102116d6)
+![IMG-20231001-WA0011](https://github.com/rniarzz/Lab1Web/assets/115542704/c3ac1a53-ebb5-4e27-8ca0-32ad877e81c9)
 
 ---
 
